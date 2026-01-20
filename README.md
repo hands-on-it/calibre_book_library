@@ -1,4 +1,4 @@
-# Calibre self hosted server installation steps
+# Calibre self hosted book library installation steps
 ##
 
 - Calibre server
